@@ -2,9 +2,9 @@
 At 142 Throckmorton Avenue
 
 ## Building History
-In 1920 this building was called...
+The Throckmorton was built in 1915 (originally called the “Hub Theater”) for showing silent films. It closed in 1929 with sound films having been invented and played at the newly opened Sequoia Theater. In 1952, it was bought by The Odd Fellows Temple, and in 1976, it became a movie theater again. This is where the first of the Mill Valley Film Festivals began. Now, it is used as a theater for live performances.
 
-- Built: c.tbd
+- Built: 1915
 - Destroyed: 1984 by fire
 - Replaced: c.tbd
 - Architect: tbd
